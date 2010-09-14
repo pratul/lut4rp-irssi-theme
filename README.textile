@@ -1,0 +1,10 @@
+h1. The lut4rp irssi theme
+
+I primarily derived this from the popular "trax" theme, some stuff was taken from a bunch of other themes too. irssi roxX.
+
+!http://pratul.in/files/lut4rp-irssi-theme.png!
+
+
+h2. License
+
+WTFPL. That's right, boise and gurls. Do what the fuck you want.
