@@ -279,7 +279,7 @@ formats = {
     pubmsg_hilight_channel = "{pubmsghinick $0 $4 $[-15]1{msgchannel $2}}$3";
     pubmsg = "{pubmsgnick $2 {pubnick $[-15]0}}$1";
     pubmsg_channel = "{pubmsgnick $3 {pubnick $[-15]0}{msgchannel $1}}$2";
-    timestamp = "{timestamp [%%H:%%M]} ";
+    timestamp = "{timestamp [%%e-%%b/%%H:%%M]} ";
     daychange = "  %K------%w-%W-%n A new day! Err... night! %%D %W-%w-%K------%n";
     who = "%#{channelhilight $[0]0}     {nick %n$[0]1%n} $[0]2 $[0]3 {comment {hilight $[0]6}} {comment $[0]7} {chanhost %n$4@$5}";
   };
